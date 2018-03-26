@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="65018" started-at="2018-02-13T07:57:31Z" finished-at="2018-02-13T07:58:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="65018" started-at="2018-02-13T07:57:31Z" finished-at="2018-02-13T07:58:36Z">
+      <class name="automationNamshi.BlankField">
+        <test-method status="PASS" signature="blankFields()[pri:0, instance:automationNamshi.BlankField@68be2bc2]" name="blankFields" duration-ms="64955" started-at="2018-02-13T13:27:31Z" finished-at="2018-02-13T13:28:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blankFields -->
+      </class> <!-- automationNamshi.BlankField -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
