@@ -3,11 +3,12 @@
 <suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="automationNamshi.BlankField">
+      <class name="com.Namshi.TestCases.quantityIncrease_RemovedProduct">
         <methods>
-          <include name="blankFields"/>
+          <include name="quantityInCart"/>
+          <include name="removeProduct"/>
         </methods>
-      </class> <!-- automationNamshi.BlankField -->
+      </class> <!-- com.Namshi.TestCases.quantityIncrease_RemovedProduct -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

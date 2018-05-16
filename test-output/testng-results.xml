@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="65018" started-at="2018-02-13T07:57:31Z" finished-at="2018-02-13T07:58:36Z">
+  <suite name="Default suite" duration-ms="57555" started-at="2018-05-16T13:29:04Z" finished-at="2018-05-16T13:30:02Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="65018" started-at="2018-02-13T07:57:31Z" finished-at="2018-02-13T07:58:36Z">
-      <class name="automationNamshi.BlankField">
-        <test-method status="PASS" signature="blankFields()[pri:0, instance:automationNamshi.BlankField@68be2bc2]" name="blankFields" duration-ms="64955" started-at="2018-02-13T13:27:31Z" finished-at="2018-02-13T13:28:36Z">
+    <test name="Default test" duration-ms="57555" started-at="2018-05-16T13:29:04Z" finished-at="2018-05-16T13:30:02Z">
+      <class name="com.Namshi.TestCases.SignIn">
+        <test-method status="PASS" signature="login_wrong_credentials()[pri:0, instance:com.Namshi.TestCases.SignIn@7dc7cbad]" name="login_wrong_credentials" duration-ms="57203" started-at="2018-05-16T18:59:04Z" description="Verify If user Logs In with valid credentials" finished-at="2018-05-16T19:00:02Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- blankFields -->
-      </class> <!-- automationNamshi.BlankField -->
+        </test-method> <!-- login_wrong_credentials -->
+      </class> <!-- com.Namshi.TestCases.SignIn -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
